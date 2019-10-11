@@ -1,16 +1,19 @@
 .otsikko{
-    background-color: #523343
+    width: 1200px;
+    height: 100px;
+    background-color: #256155
+    
 }
 
 
 h1{
-    color: rgb(189, 159, 159);
+    color: rgb(114, 110, 110);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     
 }
 
 h2{
-    color: rgb(214, 212, 212);
+    color: rgb(65, 59, 59);
     text-transform: uppercase;
     margin-top 10em;
     padding-top: 10em;
@@ -40,7 +43,7 @@ body {
 }
 
 .työkokemus{
-    width: 300px;
+    width: 500px;
     height 150px;
     background-color: #3ff2d1;
     padding: 10px;
